@@ -1,0 +1,177 @@
+.first{
+    height: 100%;
+    width: 20%;
+    top: 0px;
+    left: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: absolute;
+    background-color: black;
+    background-image: url("image2.jfif");
+}
+.first img{
+    width: 60%;
+    height: 18%;
+    left: 50px;
+    position: relative;
+    border: 2px solid red;
+
+}
+.first .para1{
+    height: 23%;
+    width: 70%;
+    border: 2px solid green;
+    border-radius: 2px;
+    position: relative;
+    background-color: aqua;
+    font-style: italic;
+    font-weight: bold;
+    color: darkgreen;
+}
+.first .para2{
+    height: 25%;
+    width: 70%;
+    border: 2px solid green;
+    border-radius: 2px;
+    position: relative;
+    top: 5px;
+    left: 80px;
+    background-color: teal;
+    font-style: italic;
+    font-weight: bold;
+}
+.first .para3{
+    height: 28%;
+    width: 70%;
+    border: 2px solid green;
+    border-radius: 2px;
+    position: relative;
+    top: 10px;
+    background-color: burlywood;
+    font-style: italic;
+    font-weight: bold;
+}
+.second{
+    height: 100%;
+    width: 71%;
+    top: 0px;
+    left: 310px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: absolute;
+}
+.second .middle{
+    height: 25%;
+    width: 99%;
+    top: 10px;
+    left: 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    background-image: url("image1.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.second .middle .heading{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    color: white;
+    font-size: 50px;
+}
+.second .vedio{
+    height: 72%;
+    width: 19%;
+    top: 10px;
+    left: 860px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: relative;
+    background-image: url("image5.jfif");
+    color: yellow;
+}
+.second .chef{
+    height: 72%;
+    width: 79%;
+    top: 195px;
+    left: 0px;
+    bottom: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: absolute;
+
+}
+.second .chef .chef1{
+    top: 10px;
+    left: 290px;
+    position: absolute;
+    display: inline-block;
+    font-weight: 400px;
+
+}
+.third{
+    height: 100%;
+    width: 8%;
+    top: 0px;
+    right: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position: absolute;
+    background-color: black;
+    background-image: url("image4.jfif");
+
+}
+.second .vedio #btn{
+    margin-top: 8px;
+    margin-left: 7px;
+    background-color: yellow;
+    font-weight: bold;
+    width: 90px;
+    padding: 2px;
+    border-style: dotted;
+    position: relative;
+}
+/*.third .logo{
+    height: 50%;
+    width: 70px;
+    top: 380px;
+    left: 45px;
+    background-color: yellow;
+    border: 2px solid white;
+    border-radius: 2px;
+    position: absolute;
+
+}
+*/ 
+.third .icon .fa{
+    position: relative;
+    display: block;
+    padding: 20px;
+    width: 18px;
+    top: 70px;
+    left: 30px;
+    background-color: white;
+   border: 2px solid black;
+   -webkit-border-radius: 25px;
+}
+
+.third .logo .fa{
+    position: relative;
+    display: block;
+    padding: 20px;
+    top: 300px;
+    left: 25px;
+    width: 18px;
+     background-color: white;
+    border: 2px solid black;
+    -webkit-border-radius: 25px;
+}
+.third #btn{
+    margin-top: 15px;
+    margin-left: 25px;
+    background-color: yellow;
+    font-weight: bold;
+    width: 90px;
+    padding: 2px;
+    border-style: dotted;
+}
